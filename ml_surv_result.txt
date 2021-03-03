@@ -1,0 +1,252 @@
+******************  0   ******************
+label 0 in total dataset: 0.89
+label 0 in training dataset: 0.90, in testing dataset: 0.87
+
+label 1 in total dataset: 0.11
+label 1 in training dataset: 0.10, in testing dataset: 0.13
+
+================== logstic_regression (2 labels) ===================
+Accuracy: 0.83
+Precision:
+[0.88311688 0.28571429]
+Recall:
+[0.93150685 0.18181818]
+F1:
+[0.90666667 0.22222222]
+Normalized Confusion matrix:
+[[0.93150685 0.06849315]
+ [0.81818182 0.18181818]]
+================== SVC_rbf (2 labels) ===================
+Accuracy: 0.87
+Precision:
+[0.86904762 0.        ]
+Recall:
+[1. 0.]
+F1:
+[0.92993631 0.        ]
+Normalized Confusion matrix:
+[[1. 0.]
+ [1. 0.]]
+================== SVC_linear (2 labels) ===================
+Accuracy: 0.83
+Precision:
+[0.87341772 0.2       ]
+Recall:
+[0.94520548 0.09090909]
+F1:
+[0.90789474 0.125     ]
+Normalized Confusion matrix:
+[[0.94520548 0.05479452]
+ [0.90909091 0.09090909]]
+================== RandomForest_equalweight (2 labels) ===================
+Accuracy: 0.87
+Precision:
+[0.86904762 0.        ]
+Recall:
+[1. 0.]
+F1:
+[0.92993631 0.        ]
+Normalized Confusion matrix:
+[[1. 0.]
+ [1. 0.]]
+================== KNN (2 labels) ===================
+Accuracy: 0.85
+Precision:
+[0.86585366 0.        ]
+Recall:
+[0.97260274 0.        ]
+F1:
+[0.91612903 0.        ]
+Normalized Confusion matrix:
+[[0.97260274 0.02739726]
+ [1.         0.        ]]
+================== GaussianNB (2 labels) ===================
+Accuracy: 0.75
+Precision:
+[0.86111111 0.08333333]
+Recall:
+[0.84931507 0.09090909]
+F1:
+[0.85517241 0.08695652]
+Normalized Confusion matrix:
+[[0.84931507 0.15068493]
+ [0.90909091 0.09090909]]
+================== Neural_network (2 labels) ===================
+Accuracy: 0.82
+Precision:
+[0.87179487 0.16666667]
+Recall:
+[0.93150685 0.09090909]
+F1:
+[0.90066225 0.11764706]
+Normalized Confusion matrix:
+[[0.93150685 0.06849315]
+ [0.90909091 0.09090909]]
+******************  1   ******************
+label 0 in total dataset: 0.89
+label 0 in training dataset: 0.90, in testing dataset: 0.86
+
+label 1 in total dataset: 0.11
+label 1 in training dataset: 0.10, in testing dataset: 0.14
+
+================== logstic_regression (2 labels) ===================
+Accuracy: 0.85
+Precision:
+[0.88311688 0.42857143]
+Recall:
+[0.94444444 0.25      ]
+F1:
+[0.91275168 0.31578947]
+Normalized Confusion matrix:
+[[0.94444444 0.05555556]
+ [0.75       0.25      ]]
+================== SVC_rbf (2 labels) ===================
+Accuracy: 0.86
+Precision:
+[0.85714286 0.        ]
+Recall:
+[1. 0.]
+F1:
+[0.92307692 0.        ]
+Normalized Confusion matrix:
+[[1. 0.]
+ [1. 0.]]
+================== SVC_linear (2 labels) ===================
+Accuracy: 0.85
+Precision:
+[0.89333333 0.44444444]
+Recall:
+[0.93055556 0.33333333]
+F1:
+[0.91156463 0.38095238]
+Normalized Confusion matrix:
+[[0.93055556 0.06944444]
+ [0.66666667 0.33333333]]
+================== RandomForest_equalweight (2 labels) ===================
+Accuracy: 0.87
+Precision:
+[0.86746988 1.        ]
+Recall:
+[1.         0.08333333]
+F1:
+[0.92903226 0.15384615]
+Normalized Confusion matrix:
+[[1.         0.        ]
+ [0.91666667 0.08333333]]
+================== KNN (2 labels) ===================
+Accuracy: 0.85
+Precision:
+[0.85542169 0.        ]
+Recall:
+[0.98611111 0.        ]
+F1:
+[0.91612903 0.        ]
+Normalized Confusion matrix:
+[[0.98611111 0.01388889]
+ [1.         0.        ]]
+================== GaussianNB (2 labels) ===================
+Accuracy: 0.68
+Precision:
+[0.82608696 0.        ]
+Recall:
+[0.79166667 0.        ]
+F1:
+[0.80851064 0.        ]
+Normalized Confusion matrix:
+[[0.79166667 0.20833333]
+ [1.         0.        ]]
+================== Neural_network (2 labels) ===================
+Accuracy: 0.86
+Precision:
+[0.89473684 0.5       ]
+Recall:
+[0.94444444 0.33333333]
+F1:
+[0.91891892 0.4       ]
+Normalized Confusion matrix:
+[[0.94444444 0.05555556]
+ [0.66666667 0.33333333]]
+******************  2   ******************
+label 0 in total dataset: 0.89
+label 0 in training dataset: 0.88, in testing dataset: 0.90
+
+label 1 in total dataset: 0.11
+label 1 in training dataset: 0.12, in testing dataset: 0.10
+
+================== logstic_regression (2 labels) ===================
+Accuracy: 0.85
+Precision:
+[0.90909091 0.14285714]
+Recall:
+[0.92105263 0.125     ]
+F1:
+[0.91503268 0.13333333]
+Normalized Confusion matrix:
+[[0.92105263 0.07894737]
+ [0.875      0.125     ]]
+================== SVC_rbf (2 labels) ===================
+Accuracy: 0.90
+Precision:
+[0.9047619 0.       ]
+Recall:
+[1. 0.]
+F1:
+[0.95 0.  ]
+Normalized Confusion matrix:
+[[1. 0.]
+ [1. 0.]]
+================== SVC_linear (2 labels) ===================
+Accuracy: 0.83
+Precision:
+[0.90789474 0.125     ]
+Recall:
+[0.90789474 0.125     ]
+F1:
+[0.90789474 0.125     ]
+Normalized Confusion matrix:
+[[0.90789474 0.09210526]
+ [0.875      0.125     ]]
+================== RandomForest_equalweight (2 labels) ===================
+Accuracy: 0.89
+Precision:
+[0.90361446 0.        ]
+Recall:
+[0.98684211 0.        ]
+F1:
+[0.94339623 0.        ]
+Normalized Confusion matrix:
+[[0.98684211 0.01315789]
+ [1.         0.        ]]
+================== KNN (2 labels) ===================
+Accuracy: 0.90
+Precision:
+[0.9047619 0.       ]
+Recall:
+[1. 0.]
+F1:
+[0.95 0.  ]
+Normalized Confusion matrix:
+[[1. 0.]
+ [1. 0.]]
+================== GaussianNB (2 labels) ===================
+Accuracy: 0.75
+Precision:
+[0.89855072 0.06666667]
+Recall:
+[0.81578947 0.125     ]
+F1:
+[0.85517241 0.08695652]
+Normalized Confusion matrix:
+[[0.81578947 0.18421053]
+ [0.875      0.125     ]]
+================== Neural_network (2 labels) ===================
+Accuracy: 0.87
+Precision:
+[0.90123457 0.        ]
+Recall:
+[0.96052632 0.        ]
+F1:
+[0.92993631 0.        ]
+Normalized Confusion matrix:
+[[0.96052632 0.03947368]
+ [1.         0.        ]]

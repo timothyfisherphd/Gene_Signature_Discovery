@@ -1,0 +1,32 @@
+GO	NS	enrichment	name	ratio_in_study	ratio_in_pop	p_uncorrected	depth	study_count	p_bonferroni	p_sidak	p_holm	p_fdr	study_items
+GO:2000272	BP	e	negative regulation of signaling receptor activity	1/3	32/19770	0.00485	7	1	1	1	1	0.956	         Q8IVG9
+GO:0003954	MF	e	NADH dehydrogenase activity   	1/3	9/19770	0.00137	4	1	1	1	1	0.822	         P03905
+GO:0046933	MF	e	proton-transporting ATP synthase activity, rotational mechanism	1/3	10/19770	0.00152	13	1	1	1	1	0.844	         P00846
+GO:0044769	MF	e	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	1/3	11/19770	0.00167	12	1	1	1	1	0.858	         P00846
+GO:0016651	MF	e	oxidoreductase activity, acting on NAD(P)H	1/3	12/19770	0.00182	3	1	1	1	1	0.866	         P03905
+GO:0019829	MF	e	cation-transporting ATPase activity	1/3	16/19770	0.00243	12	1	1	1	1	0.902	         P00846
+GO:0022853	MF	e	active ion transmembrane transporter activity	1/3	16/19770	0.00243	4	1	1	1	1	0.902	         P00846
+GO:0042626	MF	e	ATPase activity, coupled to transmembrane movement of substances	1/3	16/19770	0.00243	10	1	1	1	1	0.902	         P00846
+GO:0042625	MF	e	ATPase coupled ion transmembrane transporter activity	1/3	16/19770	0.00243	11	1	1	1	1	0.902	         P00846
+GO:0015399	MF	e	primary active transmembrane transporter activity	1/3	17/19770	0.00258	4	1	1	1	1	0.902	         P00846
+GO:0015405	MF	e	P-P-bond-hydrolysis-driven transmembrane transporter activity	1/3	17/19770	0.00258	5	1	1	1	1	0.902	         P00846
+GO:0043492	MF	e	ATPase activity, coupled to movement of substances	1/3	19/19770	0.00288	9	1	1	1	1	0.924	         P00846
+GO:0022804	MF	e	active transmembrane transporter activity	1/3	24/19770	0.00364	3	1	1	1	1	0.948	         P00846
+GO:0015078	MF	e	proton transmembrane transporter activity	1/3	25/19770	0.00379	7	1	1	1	1	0.948	         P00846
+GO:0015077	MF	e	monovalent inorganic cation transmembrane transporter activity	1/3	49/19770	0.00742	6	1	1	1	1	0.976	         P00846
+GO:0042623	MF	e	ATPase activity, coupled      	1/3	61/19770	0.00923	8	1	1	1	1	0.982	         P00846
+GO:0003824	MF	e	catalytic activity            	2/3	1158/19770	0.00988	1	2	1	1	1	0.984	 P00846, P03905
+
+fisher module not installed.  Falling back on scipy.stats.fisher_exact
+Propagating term counts to parents ..
+1 GO IDs in assc. are not found in the GO-DAG: GO:0008565
+100% 19,770 of 19,770 population items found in association
+100%      3 of      3 study items found in association
+ 75%      3 of      4 study items found in population(19770)
+Calculating 9,143 uncorrected p-values using fisher_scipy_stats
+   9,143 GO terms are associated with 19,766 of 19,770 population items
+      42 GO terms are associated with      3 of      4 study items
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local bonferroni
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local sidak
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local holm
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local fdr

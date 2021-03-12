@@ -1,0 +1,18 @@
+GO	NS	enrichment	name	ratio_in_study	ratio_in_pop	p_uncorrected	depth	study_count	p_bonferroni	p_sidak	p_holm	p_fdr	study_items
+GO:0062023	CC	e	collagen-containing extracellular matrix	1/1	199/19770	0.0101	3	1	1	1	1	0.772	         P08123
+GO:0031012	CC	e	extracellular matrix          	1/1	212/19770	0.0107	2	1	1	1	1	0.784	         P08123
+GO:0044421	CC	e	extracellular region part     	1/1	958/19770	0.0485	1	1	1	1	1	0.926	         P08123
+
+fisher module not installed.  Falling back on scipy.stats.fisher_exact
+Propagating term counts to parents ..
+1 GO IDs in assc. are not found in the GO-DAG: GO:0008565
+100% 19,770 of 19,770 population items found in association
+100%      1 of      1 study items found in association
+100%      1 of      1 study items found in population(19770)
+Calculating 9,143 uncorrected p-values using fisher_scipy_stats
+   9,143 GO terms are associated with 19,766 of 19,770 population items
+       4 GO terms are associated with      1 of      1 study items
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local bonferroni
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local sidak
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local holm
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local fdr

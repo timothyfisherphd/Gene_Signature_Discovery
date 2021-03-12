@@ -1,0 +1,54 @@
+GO	NS	enrichment	name	ratio_in_study	ratio_in_pop	p_uncorrected	depth	study_count	p_bonferroni	p_sidak	p_holm	p_fdr	study_items
+GO:0055093	BP	e	response to hyperoxia         	1/5	1/19770	0.000253	5	1	1	1	1	0.024	         P00156
+GO:0036296	BP	e	response to increased oxygen levels	1/5	1/19770	0.000253	4	1	1	1	1	0.024	         P00156
+GO:0070482	BP	e	response to oxygen levels     	1/5	10/19770	0.00253	3	1	1	1	1	0.926	         P00156
+GO:0009628	BP	e	response to abiotic stimulus  	1/5	74/19770	0.0186	2	1	1	1	1	0.998	         P00156
+GO:0015078	MF	e	proton transmembrane transporter activity	3/5	25/19770	1.78e-08	7	3	0.000163	0.000159	0.000163	0	P00395, P00403, P00846
+GO:0015077	MF	e	monovalent inorganic cation transmembrane transporter activity	3/5	49/19770	1.43e-07	6	3	0.0013	0.00127	0.0013	0	P00395, P00403, P00846
+GO:0022890	MF	e	inorganic cation transmembrane transporter activity	3/5	72/19770	4.61e-07	5	3	0.00421	0.00411	0.00421	0	P00395, P00403, P00846
+GO:0008324	MF	e	cation transmembrane transporter activity	3/5	76/19770	5.43e-07	4	3	0.00496	0.00484	0.00496	0	P00395, P00403, P00846
+GO:0016491	MF	e	oxidoreductase activity       	3/5	108/19770	1.57e-06	2	3	0.0144	0.014	0.0144	0	P00395, P00403, P03905
+GO:0015318	MF	e	inorganic molecular entity transmembrane transporter activity	3/5	127/19770	2.56e-06	3	3	0.0234	0.0229	0.0234	0	P00395, P00403, P00846
+GO:0015075	MF	e	ion transmembrane transporter activity	3/5	134/19770	3.01e-06	3	3	0.0276	0.0269	0.0275	0	P00395, P00403, P00846
+GO:0016676	MF	e	oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor	2/5	14/19770	4.65e-06	4	2	0.0425	0.0415	0.0425	0.002	 P00395, P00403
+GO:0016675	MF	e	oxidoreductase activity, acting on a heme group of donors	2/5	14/19770	4.65e-06	3	2	0.0425	0.0415	0.0425	0.002	 P00395, P00403
+GO:0015002	MF	e	heme-copper terminal oxidase activity	2/5	14/19770	4.65e-06	3	2	0.0425	0.0415	0.0425	0.002	 P00395, P00403
+GO:0004129	MF	e	cytochrome-c oxidase activity 	2/5	14/19770	4.65e-06	8	2	0.0425	0.0415	0.0425	0.002	 P00395, P00403
+GO:0022857	MF	e	transmembrane transporter activity	3/5	160/19770	5.14e-06	2	3	0.047	0.0458	0.0469	0.002	P00395, P00403, P00846
+GO:0005215	MF	e	transporter activity          	3/5	178/19770	7.08e-06	1	3	0.0648	0.0631	0.0647	0.004	P00395, P00403, P00846
+GO:0009055	MF	e	electron transfer activity    	2/5	21/19770	1.07e-05	3	2	0.0981	0.0956	0.0979	0.004	 P00395, P00403
+GO:0003824	MF	e	catalytic activity            	4/5	1158/19770	5.58e-05	1	4	0.51	0.498	0.51	0.01	P00395, P00403, P00846, P03905
+GO:0003954	MF	e	NADH dehydrogenase activity   	1/5	9/19770	0.00227	4	1	1	1	1	0.92	         P03905
+GO:0046933	MF	e	proton-transporting ATP synthase activity, rotational mechanism	1/5	10/19770	0.00253	13	1	1	1	1	0.926	         P00846
+GO:0044769	MF	e	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	1/5	11/19770	0.00278	12	1	1	1	1	0.934	         P00846
+GO:0016651	MF	e	oxidoreductase activity, acting on NAD(P)H	1/5	12/19770	0.00303	3	1	1	1	1	0.948	         P03905
+GO:0019829	MF	e	cation-transporting ATPase activity	1/5	16/19770	0.00404	12	1	1	1	1	0.958	         P00846
+GO:0022853	MF	e	active ion transmembrane transporter activity	1/5	16/19770	0.00404	4	1	1	1	1	0.958	         P00846
+GO:0042626	MF	e	ATPase activity, coupled to transmembrane movement of substances	1/5	16/19770	0.00404	10	1	1	1	1	0.958	         P00846
+GO:0042625	MF	e	ATPase coupled ion transmembrane transporter activity	1/5	16/19770	0.00404	11	1	1	1	1	0.958	         P00846
+GO:0015399	MF	e	primary active transmembrane transporter activity	1/5	17/19770	0.00429	4	1	1	1	1	0.966	         P00846
+GO:0015405	MF	e	P-P-bond-hydrolysis-driven transmembrane transporter activity	1/5	17/19770	0.00429	5	1	1	1	1	0.966	         P00846
+GO:0043492	MF	e	ATPase activity, coupled to movement of substances	1/5	19/19770	0.0048	9	1	1	1	1	0.968	         P00846
+GO:0022804	MF	e	active transmembrane transporter activity	1/5	24/19770	0.00606	3	1	1	1	1	0.976	         P00846
+GO:0003674	MF	e	molecular_function            	4/5	4209/19770	0.00851	0	4	1	1	1	0.984	P00395, P00403, P00846, P03905
+GO:0042623	MF	e	ATPase activity, coupled      	1/5	61/19770	0.0153	8	1	1	1	1	0.994	         P00846
+GO:0016887	MF	e	ATPase activity               	1/5	85/19770	0.0213	7	1	1	1	1	1	         P00846
+GO:0017111	MF	e	nucleoside-triphosphatase activity	1/5	92/19770	0.0231	6	1	1	1	1	1	         P00846
+GO:0016462	MF	e	pyrophosphatase activity      	1/5	107/19770	0.0268	5	1	1	1	1	1	         P00846
+GO:0016818	MF	e	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	1/5	110/19770	0.0275	4	1	1	1	1	1	         P00846
+GO:0016817	MF	e	hydrolase activity, acting on acid anhydrides	1/5	110/19770	0.0275	3	1	1	1	1	1	         P00846
+​
+
+fisher module not installed.  Falling back on scipy.stats.fisher_exact
+Propagating term counts to parents ..
+1 GO IDs in assc. are not found in the GO-DAG: GO:0008565
+100% 19,770 of 19,770 population items found in association
+100%      5 of      5 study items found in association
+100%      5 of      5 study items found in population(19770)
+Calculating 9,143 uncorrected p-values using fisher_scipy_stats
+   9,143 GO terms are associated with 19,766 of 19,770 population items
+      42 GO terms are associated with      5 of      5 study items
+      12 GO terms found significant (< 0.05=alpha) after multitest correction: local bonferroni
+      12 GO terms found significant (< 0.05=alpha) after multitest correction: local sidak
+      12 GO terms found significant (< 0.05=alpha) after multitest correction: local holm
+      17 GO terms found significant (< 0.05=alpha) after multitest correction: local fdr

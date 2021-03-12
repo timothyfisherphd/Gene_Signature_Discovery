@@ -1,0 +1,22 @@
+GO	NS	enrichment	name	ratio_in_study	ratio_in_pop	p_uncorrected	depth	study_count	p_bonferroni	p_sidak	p_holm	p_fdr	study_items
+GO:2000272	BP	e	negative regulation of signaling receptor activity	1/2	32/19770	0.00323	7	1	1	1	1	0.79	         Q8IVG9
+GO:0010469	BP	e	regulation of signaling receptor activity	1/2	86/19770	0.00868	6	1	1	1	1	0.882	         Q8IVG9
+GO:0044092	BP	e	negative regulation of molecular function	1/2	171/19770	0.0172	3	1	1	1	1	0.942	         Q8IVG9
+GO:0065009	BP	e	regulation of molecular function	1/2	497/19770	0.0496	2	1	1	1	1	0.966	         Q8IVG9
+GO:0003954	MF	e	NADH dehydrogenase activity   	1/2	9/19770	0.00091	4	1	1	1	1	0.58	         P03905
+GO:0016651	MF	e	oxidoreductase activity, acting on NAD(P)H	1/2	12/19770	0.00121	3	1	1	1	1	0.634	         P03905
+GO:0016491	MF	e	oxidoreductase activity       	1/2	108/19770	0.0109	2	1	1	1	1	0.912	         P03905
+
+fisher module not installed.  Falling back on scipy.stats.fisher_exact
+Propagating term counts to parents ..
+1 GO IDs in assc. are not found in the GO-DAG: GO:0008565
+100% 19,770 of 19,770 population items found in association
+100%      2 of      2 study items found in association
+100%      2 of      2 study items found in population(19770)
+Calculating 9,143 uncorrected p-values using fisher_scipy_stats
+   9,143 GO terms are associated with 19,766 of 19,770 population items
+      17 GO terms are associated with      2 of      2 study items
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local bonferroni
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local sidak
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local holm
+       0 GO terms found significant (< 0.05=alpha) after multitest correction: local fdr
